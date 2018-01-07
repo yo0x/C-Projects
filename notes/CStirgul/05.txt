@@ -1,0 +1,30 @@
+המרות
+int a =3;
+int b = 2;
+int c;
+c = a/b;
+שלם\שלם = שלם
+ממשי \ שלם = ממשי
+ממשי \ שלם = ממשי
+ממשי \ ממשי = ממשי
+המרה יזומה = (type)
+c = (float)a/b
+
+AND
+Closed Range!
+
+OR
+Open Range!
+
+FOR Loop
+for (1 reboot;2 condition;4 index)
+{
+3 TO DO
+
+}
+When you know the END;
+
+while loop:
+When you dont know the END;
+
+do while loop

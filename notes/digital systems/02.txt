@@ -1,0 +1,28 @@
+קוד צופן
+אורך הצופן
+en morse es 5
+en braii es 6
+base10>>>>>>>>>>>
+least significant digit
+lsd
+most significant digit
+msd
+349304
+>4>lsd
+3>msd
+base5
+base (b) >>> hay B numeros hasta b-1!
+11_5
+16_10 > 10 no se escribe > 16
+?????????????????????????????
+base B to base 10<<<<<<<<<<<<<<<<<
+
+sum from{i=n-1} to{-k} ba
+NUmaro que es pehueno en basis B es SIEMPRE pequeno en Basis 10 o 11 ... I
+Base 10 TO base B>>>>>>>>>>>>>.
+* For the B number simples moves the dot Right or left!!!!
+443_5=113   base5=base10
+>>>>>>>binary>>>>
+01
+Lsb Msb
+>>>>>>>>>binary X

@@ -1,0 +1,31 @@
+mapa karnot!
+de el zimzum mayor posible!
+Mapat karnot se aplica a los veciones taim que han cambiado solo un bit!
+how to use it___08___10
+https://www.youtube.com/results?search_query=karnaugh+map+explained+
+sicum
+08___14___
+code GRAY
+photo!
+
++++++Maarajot Sidratiot!____09__
+
+System with memory
+history dependes on the state of the system in that moments
+‫נתון‬ ‫ברגע‬ ‫המערכת‬ ‫מצב‬
+09_4
+
+system sidrati
+hash 1more sys zirufit
+and memory
+++++++++++++10+++++++++++FIP FLOPS
+reset set:
+like a switch
+----CUADERNO
+flip flop is the based of the memory
+
+____FILE ___FLIPFLOPS ___MOODEL
+
+true table ther eis :
+t = now
+t+1= net time

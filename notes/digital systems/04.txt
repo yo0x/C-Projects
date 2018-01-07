@@ -1,0 +1,34 @@
+ACM = standar group for CS
+IEEE 754 => Standart for Floating points
+NaN = Non a number.
+presetn _02_39_RESUMEN!
+BDC -Binary Coded Decimal
+para cada num 4 bits.
+174=0001 0111 0100
+not good for operations...
+++++++++++Gray Coded+++++++++++
+4 0110
+5 1110
+6 0110
+7 0111
+https://en.wikipedia.org/wiki/Gray_code
+++++++++++1,3,7++++++++++++
+para la sifra vikoret
+___02__42
+++++++++++++++Even Parity Check Bit++++++++++++++===
+0010 1
+0011 0
+0100 1
+0101 0
+Para chekear errores!
+Pero ne se sabe donde!
+Depende del Ssistema... los errorres tiene q depender del sistema elegido *-1
+++++++++++++++++++++++++++++ASCII+++++++++++++++++++++++++++++++++=
+ 48 65 6c 6c 6f 2c 20 77 6f 72 6c 64 21
+ 26 23 31 35 31 33 3b 26 23 31 35 30 30 3b 26 23 31 34 39 33 3b 26 23 31 35 30 31 3b 2c 20 26 23 31 35 30 36 3b 26 23 31 34 39 33 3b 26 23 31 35 30 30 3b 26 23 31 35 30 31 3b 21
+ INICODE<<
+ 1991
+ standart 16 bit
+ El codigo no se encarga del la representacion sino el font!
+ IMBPC- sin sifra bikoret
+ 

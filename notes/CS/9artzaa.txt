@@ -1,0 +1,44 @@
+d1,2 = sqrt(x1-x2)
+how to write the code: -38-5
+1 make design
+2 check the model in_40_5
+in the main i declare function that havent yet bbeen declared! its good way to  advance in the code.
+then we proceede to write the functions.
+
+CHAPTER 6
+
+
+Pointers to memory
+
+we need a fuction that changes values of another funtions.
+_5_6
+function can only return 1 value!
+this is way we need to use the pointers in C! to return more than one value!
+vars in memory _8_6
+we usually specify where we want to store the value! like in scanf! by adding &D -ampercent-AND
+we can declare by
+int *p;
+char *cp1, *cp2 = &c;
+cp1 point to char memory
+dp = dq = &x;
+dq get x addresss and the dp gets dq
+There are functions poointers aswell but wont be tought in this curse.
+a   &a   gives address
+b   *b   gives the value.
+
+‫‪int‬‬ ‫‪i=3,‬‬ ‫‪j=5,‬‬ ‫‪*p‬‬ ‫=‬ ‫‪&i,‬‬ ‫‪*q‬‬ ‫=‬ ‫‪&j,‬‬ ‫;‪*r‬‬
+
+https://www.cprogramming.com/tutorial/lesson6.html
+
+when we refer to and adress we refer to the start of this address
+_15_6 will be in the exam
+
+in the declaration we use:
+int *x,
+in the call we use
+&a
+
+error in compialation are errors in definitions ! Values the compiller cant know
+eror while running is when values are compiled but not valid!
+
+*void = measn is and undefined adress! int char....

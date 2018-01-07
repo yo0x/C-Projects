@@ -1,0 +1,30 @@
+todo numero es TRUE en IF! Solo 0 es FALSE
+&& and if (a==b && b==c)
+(|| or  o
+(a*b)
+todos las vars tiene valor or TRUE or FAlSE
+Statments: Switch - case - Default
+switch(expression = מצב המתג){
+  case value1:
+  statment1
+  break; >>>>>>>>>>interupt program
+  case value 2
+  break
+  default :
+  statment
+}
+++++++++++++++++++++++++++++++++++++++++++++++++++
+IF +++++
+
+do
+{printf()
+while >>> continue asking if the sentence is not satisfided.
+}
+for(onetime statment i=0, i>1 boolean, i++)
+    {
+
+    }
+break
+continue
+in the for the continue>>1++stament3>>>andthen stamnet 2 i<100>>
+while(endless)

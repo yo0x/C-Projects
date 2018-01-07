@@ -1,0 +1,49 @@
+1.memory
+תאים בסדר קבוע
+4356
+4*10^3+3*10^2+5^1+6*10^0
+אפשר להוסיף בתים
+8 bit + 8bit
+BINARY!!!Youtube
+https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/number-systems-introduction
+hexa!
+-21-
+מכונה שיכולה לבצע חישוב אלגוריטם!
+תוכנית מחשב
+declarations vars:
+-uniqure name!
+-IO data
+-operations
+תוכנית= אלגוריטם+נתונים!
+compiler:
+metargen le safa binari.
+24-process compilation
++++++++++++++++++++++
+para el numero de operaciones q puede hacer?
+++++++++++++++++++++
+OS:27-
+giga hertz = 10^9
+peulot be shnia
+++++++++++++++++C++++++++++Structures:
+
+Comments:
+//
+/*
+Variable:
+  identifers
+  coherents names
+Strings: מחרוזת
+  '' 1 value
+  "" more than one.
+#define una variable que se establece en todo el programa
+-10-
+ -  no esta en la memoria.
+ -global variable se puede cambiar..
+ _________12___________________-
+ int: מס שלם +-
+OS:27-
+ 65535
+ ascii desde el telegram!
+ asciitable.com!
+
+ Float < Double <long Double

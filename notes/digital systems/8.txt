@@ -1,0 +1,57 @@
+‫סיכום‬ ‫—‬ ‫דרישות‬ ‫פי‬ ‫על‬ ‫צירופית‬ ‫מערכת‬ ‫בניית‬
+
+_14_05
+1 choose variables!
+2 SAMEL LOGi Logical Chart
+3 True table
+f(x,y,z)=x'Y+z
+        = ((x'y)z')'
+        AND OR no ochacha
+
+
+NAND fuction shlema
+prove:
+given:
+NAND
+need to prove:
+Choose group with NOT
+NOTa = a' =(aa)'= a NAND a
+
+Ab=((ab)')' = (a NAND b)'=(a NAND b) NAND (a NAND b)
+conlution!
+we show that AND not can be explanided with NAND
+which means is a MARECHET shlema
+The function is minimal becouse we can no descart the NAND becouse is the only fuction!
+
+HW: or nOT = boolean function MARECHET shlema
+pprove in hw
+
+logical gates
+complete functions
+and symbols
+
+06>>>>>>>>>>>>>>>>>>>>
+
+NC switches!
+NO
+Sybols for switches
+switches a b = and
+switches a b = or
+switches nOT
+_06_ 6
+
+FET =  transsistor
+
+
+>>>>>>>>>>>>>>07>>>>>>>>>>>>>>
+
+
+USEFOUL digital systems!
+
+half adder
+
+there are no system that need more than 2 gates!
+
+ripple with 3 levels!!!
+
+dentro del sistema ha el del medio se llama ta ofiani!

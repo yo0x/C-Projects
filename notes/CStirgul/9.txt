@@ -1,0 +1,10 @@
+Fuctions can reduce process!
+
+KIND_NAME(PARAMETERS);
+
+void print();
+  int i;
+  for(i=1; i<6; i++)
+  {
+    printf("%5d", i);
+  }

@@ -1,0 +1,22 @@
+targil1
+
+M'=pq
+M=(pq)'
+
+targil2
+
+F=!p^!q
+
+morgan for n parameters:
+drom not kanonit to sum Multiplication kanonit
+tiene que multiplicar por  los que faltan!!!
+mirar en la matzeguet
+cuando se suman dos valores iguales se deja solo el primero
+
+MASHLIM LE FUN kanonit
+Sigma de lo que no aparece!
+Sigma(2,4,5)
+f'=Sigma (0,1,3,6,7)
+bein kanoniot shel sjum machpelo standarit and nachpela sjumim standarti
+
+se hace pi y se escripe los que faltan

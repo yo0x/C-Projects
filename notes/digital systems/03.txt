@@ -1,0 +1,23 @@
+hay varias formas de numeros
+siman
+0 +
+1 -
+2'complement
+los negativos voltean la tabla:
+1111
+1110
+1101
+1100
+1011
+1010
+1001
+NEgativos!
+shitot para transformar 24-02!
+2's:=>
+-8 = 1000!!!
+(2^(n-1)-1) to (-2^(n-1)) range
+total = 2^n
+overflow pas cuando no hay campo en la mem
+base2 = baseN puede ser numero loop
+Floating point method:-35-
+M and E estan siempre representados en el 24bit

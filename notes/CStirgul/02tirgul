@@ -1,0 +1,12 @@
+bit 0,1
+8 byte = 2^8 = 256
+1024 byte = 1kb
+1024 kb = mb
+1024 mb = 1GB
+1024 GB = 1T
+1024 T =  1 PTB
+================
+unsigned positive numbers
+ascii
+10 13 = \n
+9 = \t

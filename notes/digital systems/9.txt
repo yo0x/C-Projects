@@ -1,0 +1,63 @@
+ripple
+S=X+Y
+Propagation delay time.
+1=10^-9
+
+logic of N Gates
+Each Mabo passes N gates until result!
+
+so In logic of N gates the PDT is N(Tao- until result!)
+___07___13 rN for number of gates!
+THE MAXIMUM time is the time that takes to the result to appear
+
+COMPARATORS
+
+1- functional chart!
+2- TRUE table
+
+COMPARATORS: intuitive build
+x=101...
+y=110...
+whch is bigger
+1 = 1
+1>0
+y>x
+
+MERAVEc
+ta ofiani! the samll component that can be apply to N numbers.
+
+4>>>1
+
+1 functional chart
+
+
+4>>>2
+CUADERNO!
+
+Decoders!!!!
+07----18
+n=2^k -1
+enable_ gate= disables and enables the ta Funcionali!
+
+mesaknim
+mashviim
+zman
+mrbebim
+mflagim
+
+
+
+
+
+_______________08______________________
+
+
+minimization with all the Logic lawss
+
+when doing min ... the result wont always be the min expression
+Karnaugh MAP
+basis on
+at+at' = a
+
+Map Karno
+we use CODE GRAY to fill up the TRUE TABLE!

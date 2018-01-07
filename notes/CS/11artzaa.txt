@@ -1,0 +1,38 @@
+_______________07______________
+\0 null character > end of string
+array[]= cannot be changed
+array[10] = can be changed
+for (i=6;i>0;i--)
+  s[i+1]=s[i];
+  s[0]= "*";
+
+  TO MOVE AN ARRAY:
+
+2 axis array in C
+how to store array in c
+float m[4][4]
+array 2 axis > we loop it with for loop
+malloc
+Memory allocation
+malloc returns VOID!
+p= (double*) malloc(n * sizeof(double));
+if (p=NULL)
+  return 1;
+
+
+
+STRUCTURES
+______________________________________________
+CLASSESS??
+
+Cant do ashbaaot
+structures can be fieds in other structures.
+
+struct date d1 = {2, 5, 1975};
+struct address home = {"Los-Angeles", “Kipling", 711};
+struct employee beckham;
+strcpy(beckham.name, "David Beckham");
+strcpy(beckham.id, "123456789");
+
+assignment of arrays is not possible in c!
+must use!

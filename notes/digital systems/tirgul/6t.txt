@@ -1,0 +1,39 @@
+tirgul
+Y=h+'h=1
+targil2
+q=1
+r=1
+p=0
+
+f(0,1,1)=0(1+1)=0
+targil3
+f(a,b,c)=
+(a')*b+(cx(b')*(c'))
+(1)*1+(c*(0)*(1))
+1+1+0+0=1
+targil 4
+p+(q'r+r'p)
+0+(10+10)
+0+(0+0)
+=0
+כללי במספר משתנים
+a=0
+l=a+bc|a=0 = 0+bc = bc
+R=(a+b)(a+c)|a=0    (0+b)(0+c)=   b*c=l
+a=1 L=a+b*c |a=1    1+b*c
+    R=(a+b)(a+c)|a=1    (1+b)(1+c)   =   1*1 =1
+כללי צמצום
+y=0 l= x+x'*0 = x+0 = x+y =R
+y=1 L=x+x'*1 = x+x'=1=x+1=x+y=R
+targil1
+f(x,y,z)=x'y'z+yz+xz=
+z(x'y'+y+x)
+z(y+x'+x)
+(1+y)z
+1z
+=z
+‫‪(x+y)(x'+y)(x+y')(x'+y')=0‬‬
+(xx'+xy+x'y+yy)(x'x+xy'+x'y'+y'y')
+yy'(....)=0
+targil2
+(x+y)(x'+y)

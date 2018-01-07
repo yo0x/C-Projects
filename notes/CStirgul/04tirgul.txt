@@ -1,0 +1,29 @@
+debug
+if() SIN ;!!!!
+a = 3;
+a +=1;
+a = a + 1;
+a++;
+++a:
++++++++++++++++
+a = a-5;
+a -=5;
+a*=5;
+a /=5;
++++++++++++++
+a = a+2;
+a+=2;
+++++++++++++++++
+b=a++;
+>>>
+b=a;
+a = a++;
+
+b=++a;
+b=a +1!!!!
+__________________________________________________INput CHECK!
+keyboard >>> buffer >>>mem
+1        >>>    2   >>> 3
+3.1 if buffer values is INT will be store in the mem
+you must flush the BUFFER!
+ {char c; while ((c = getchar()) != '\n' && c != EOF); }

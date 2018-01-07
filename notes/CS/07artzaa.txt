@@ -1,0 +1,20 @@
+array
+low mid hig
+1/2
+1/4
+1/8
+searches!
+||||||||||||||||||Functions||||||||||||||||||||
+Functions return values!
+vars
+nums
+main is run by the os!
+Top Down design ! software design.
+
+1complier
+2 lobraries connect and builds a new COMP - LINK!
+3 puts prog into memory
+return get back the value
+return close the function!
+x i y alre freeded in memory!
+witput no return the function fisnishe?

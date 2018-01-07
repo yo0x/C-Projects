@@ -1,0 +1,4 @@
+i = 30;
+!i = 0  !!!!
+%  para saber si es + or -
+dentro de los girshaim de scanf("Raq tavei bakara!")

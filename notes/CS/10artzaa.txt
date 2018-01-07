@@ -1,0 +1,36 @@
+when the * is in the left side means יעד הצבה
+y = *&x;
+y = * p;
+y = *x
+
+Null none address
+Cant assign value to NULL!
+
+Operation with pointers
+pointers can progress by them selfs
+
+--
+++
+According to the size of the INT double ...
++=
+-=
+
+divide multiplication or SUM are forbidden in POINTERS~!
+____06____pg 30
+
+void return no value!
+
+++++++++++++++++++++++++++++++++++++++++=07 DATA STRUCTURES++++++++++++++++
+
+
+
+strings:
+\0 null means end of STRING!
+number of chars + \0
+char name[10] = []
+
+when u declare string [] with no numbers means will be assign automatically
+
+string.h
+libray to take care of strings Operation.
+ 

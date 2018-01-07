@@ -1,0 +1,25 @@
+parametrim
+snack def get_a_snack(parameters)
+{
+
+}
+API= Application Program Interfaces
+Void doesnt return
+
+swaping memory = exchanges data between the disk and memory!
+after function is complete the memory space is realse!
+function can change the type of the value!
+from int to double or so on...
+
+structured design
+{
+block
+}
+c variables type in C:
+3 life ciclyes:
+local ---> in loops--> death after loops
+global
+
+static is called just ones!
+C types of variables in C!
+static! global local!

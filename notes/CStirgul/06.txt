@@ -1,0 +1,4 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+asur declarar variables en la media;
++si se quiere multiplicar el var tiene q ser 1
+si quieren sumar 0!

@@ -1,0 +1,36 @@
+#define no en la memory!
+שם נרדף
+unsigned int: Solo digitos positivos
+S = 0,1 deacuerdo al simbolo!
+m = matrix represent Number
+2^e = 10^x
+sizeof(object) = bit Value
+enum day {sun,mon,...};
+sun = 0
+mon = 1
+enum day {sun =1,mon,...}; si quiere q empieze en 1 sino empieza en 0
+printf(
+
+)
+
+expressions:
+arguments(x,y,z) and operators(+ - * = )
+
+int/int = int!
+2 + 2.3 ==> will convert to float and then Float + float!
+            update the numbers!
+2/6 = mana sharit 1
+2%6 = sharit
+---31--- TABLA con la decicon
+assigment =
+a = c >>> c entra en a!
+si entro Float en Int cuando uso = se convierte en FLOAT!
+no se puede retroceder una vez float to int! int to float!
+y= x++; kodem erej ve as +
+y= ++x; kodem +
+LOGICAL ++++++++++++++++++++++++
+0 is FALSE
+x>0 always true!
+TRUE = 1 , False = 0
+TABLA -45- ESTUDIOAr
+++++++++++++++++++++++++++++++++++++++++++++++++++++

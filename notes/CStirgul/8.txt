@@ -1,0 +1,31 @@
+arrays gives progression of memory assigment.
+
+reset an array
+int a[10] = {0};
+int a[10] = {1}; the first one will get 1 other 0
+index finishies in n-1
+
+array I/O
+
+input:
+always need for!_array!
+for(i=0;i<5;i++)
+{
+  scanf("%d", &a[i]);
+
+}
+
+Output:
+
+for(i=0;i<5;i++)
+
+{
+  printf("%d5d", a[i]);
+}
+
+int a[5];
+for(i=0;i<5;i++)
+{
+  a[i] = 2;
+
+}

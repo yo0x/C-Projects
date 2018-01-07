@@ -1,0 +1,26 @@
+logic gates
+or:
+a---
+b---
+=f
+para analizar logim statmens:
+1[-functional CHART]
+X Y Z ===> f
+3 ANDS ==> 1 oR==> F
+Standart global forms:
+ISO 9002 = standard Software design
+minterm: multiplication of all varablies or their x'y'z'w
+2^n multiplications of all variables and their'
+maxterm (SUM of all ther VARIAables an their '')
+maxterm is equal to 0 when x= y=1 z=1 t=1 r=0
+in x+y'+z'+t'+z'+t'+r
+TRUE TABLE is a way to set a funct!
+
+=m1+m4+m7 = sigman(1,4,7)
+
+f'(xyz)= m0 m2 m3 m5+ m6=sigma(0,2,3,5,6)
+kanonit means all the parameters are in
+
+maavar llo kanonit lkanonit
+1 open partesis
+2 ___-11 page+++++

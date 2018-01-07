@@ -1,0 +1,9 @@
+flips FLOPS
+RS
+
+r and s cannot be 0 = 0
+
+master slave
+one gives input to the other.
+____10____07
+ha y q chekear todos los tipos the ___FLIPFLOPS

@@ -1,0 +1,4 @@
+para pasar de base10 to base8
+se agarra 3bit > 8octal
+binary to base 16 > 4bit
+253base10 = 0fd base 16
