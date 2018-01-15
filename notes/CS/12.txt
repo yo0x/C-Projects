@@ -1,0 +1,25 @@
+Complexity
+how good is the algorithm
+Algorithms that we saw:>>>
+09______________3
+Bubble -Sort! >> order arrays
+Max-Sort
+Algorithms Complexity RULES:
+Numbers of actions that he does that dont depent on the NUmber of memebers!
+the most complex is the N^2
+Binary Search
+u look fir-stable in the middle
+then if is < or > we look right or left
+
+En el examen dan un ejercicio y hay que contar cuantos loops hay!... y
+mirar la complejida!
+
+
+_________________reKursia 10__________________
+
+iteration form until now>>> for loop
+recursia: sum1 = sum0+ 1
+          sum2 = sum1 + 2
+
+return = returns to the plece right after the function was called!
+Rekursia resolves the problem with the problem itself

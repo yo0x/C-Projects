@@ -1,7 +1,7 @@
 /*
 ============================================================================
 Name        :תרגיל בית HW5.2
-Author      : 
+Author      :
 Version     : 0.1
 ID.Number   :
 Description : Question 5.2
