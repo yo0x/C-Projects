@@ -1,0 +1,41 @@
+tirgul
+char srt[4] = {'a','b','c','\0'};
+char srt[4] = "ABC";
+printf("%s", str);
+puts(str);
+input
+scanf("%s", str);
+> one word only!
+gets(str);
+>some words! but doest put \0!
+  you have to add it.
+
+<string.h>
+all the commands!
+
+char str[7]= "Eli";
+strlen(str);
+lengt of the string
+
+strcpy(str1, str);
+from str to str1!
+
+strcat(str1, str);
+add str to srt1!
+ELI32
+from str to str
+
+
+strcmp(str1, str);
+>>> 0
+>>> >1
+>>> <1
+
+Array pointer
+Format fo array: Funtction!
+
+All arrayes are addressable
+
+
+
+&a[i] == >>> (arr +i)!!!
