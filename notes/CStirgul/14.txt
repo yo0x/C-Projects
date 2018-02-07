@@ -1,0 +1,13 @@
+recursia atcjalati
+          sofit
+          addadit ???
+
+
+
+void print(int i)
+{
+  if(i>5) return;
+  printf("%d", i);
+  print(i+1);
+
+}
