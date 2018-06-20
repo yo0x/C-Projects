@@ -1,2 +1,2 @@
-# CS01
-CS exercies and more...
+# C-Projects
+Some C projects i have worked on.
